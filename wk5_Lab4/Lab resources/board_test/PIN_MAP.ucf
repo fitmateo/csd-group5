@@ -1,0 +1,32 @@
+
+# PlanAhead Generated physical constraints 
+
+# Pushbuttons
+NET "btn_ctr" LOC = F5; #DIP switch 3
+NET "btn_dwn" LOC = P3;
+NET "btn_lft" LOC = <FILL_IN>;
+NET "btn_rt" LOC = <FILL_IN>;
+NET "btn_up" LOC = <FILL_IN>;
+
+# 100MHz Clock
+NET "clk" LOC = <FILL_IN>;
+
+# LED Bank
+NET "leds[0]" LOC = U18;
+NET "leds[1]" LOC = M14;
+NET "leds[2]" LOC = <FILL_IN>;
+NET "leds[3]" LOC = <FILL_IN>;
+NET "leds[4]" LOC = <FILL_IN>;
+NET "leds[5]" LOC = <FILL_IN>;
+NET "leds[6]" LOC = <FILL_IN>;
+NET "leds[7]" LOC = <FILL_IN>;
+
+# Switches
+NET "switches[0]" LOC = A10;
+NET "switches[1]" LOC = D14;
+NET "switches[2]" LOC = <FILL_IN>;
+NET "switches[3]" LOC = <FILL_IN>;
+NET "switches[4]" LOC = <FILL_IN>;
+NET "switches[5]" LOC = <FILL_IN>;
+NET "switches[6]" LOC = <FILL_IN>;
+NET "switches[7]" LOC = <FILL_IN>;
